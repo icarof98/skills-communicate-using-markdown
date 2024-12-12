@@ -4,3 +4,8 @@
 ``` python
 print("Hello World")
 ```
+
+List of things to do
+- [ ] Learn French
+- [ ] To invite hear to go out
+- [ ] To forget her forever
